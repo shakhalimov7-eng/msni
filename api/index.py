@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot TOKEN — Vercel Dashboard'dan kiritiladi, topilmasa kod to'xtaydi
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8503981749:AAFoTPUke0G2h_Dd6weqGYNpRc69PmVynrQ")
 
 # ─── Kalkulyator tugmalari ────────────────────────────────────────────────────
 BUTTONS = [
